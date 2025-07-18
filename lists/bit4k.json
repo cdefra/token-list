@@ -1,0 +1,21 @@
+{
+  "name": "BIT4K Token List",
+  "logoURI": "https://raw.githubusercontent.com/cdefra/token-list/main/assets/blockchains/smartchain/assets/0x2a91d79e6e14b0a00dd4256d7c57e1d714c85f82/logo.png",
+  "keywords": ["bit4k", "tokens"],
+  "timestamp": "2025-07-18T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2a91D79e6E14B0A00DD4256d7c57E1d714c85F82",
+      "name": "BIT4K",
+      "symbol": "BIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cdefra/token-list/main/assets/blockchains/smartchain/assets/0x2a91d79e6e14b0a00dd4256d7c57e1d714c85f82/logo.png"
+    }
+  ]
+}
